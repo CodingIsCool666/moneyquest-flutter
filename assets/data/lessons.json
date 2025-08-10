@@ -1,0 +1,26 @@
+[
+  {
+    "id": "needs_wants",
+    "titleKey": "needsWantsTitle",
+    "summaryKey": "needsWantsSummary",
+    "cards": [
+      {"textKey": "nw_card1", "image": null},
+      {"textKey": "nw_card2", "image": null}
+    ],
+    "quiz": [
+      {"id":"q1","promptKey":"nw_q1","choices":["nw_q1_c1","nw_q1_c2","nw_q1_c3"],"correctIndex":0},
+      {"id":"q2","promptKey":"nw_q2","choices":["nw_q2_c1","nw_q2_c2","nw_q2_c3"],"correctIndex":2}
+    ],
+    "xp": 20
+  },
+  {
+    "id": "saving_basics",
+    "titleKey": "savingBasicsTitle",
+    "summaryKey": "savingBasicsSummary",
+    "cards": [{"textKey": "sb_card1", "image": null}],
+    "quiz": [
+      {"id":"q1","promptKey":"sb_q1","choices":["sb_q1_c1","sb_q1_c2"],"correctIndex":1}
+    ],
+    "xp": 20
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "@@locale": "es",
+  "appTitle": "MoneyQuest",
+  "tabLearn": "Aprender",
+  "tabPlay": "Jugar",
+  "tabProgress": "Progreso",
+  "tabGrownups": "Adultos",
+  "learnTitle": "Aprender",
+  "playTitle": "Zona de juegos",
+  "progressTitle": "Progreso",
+  "grownupsTitle": "Adultos",
+  "aboutApp": "Una app para niños que enseña conceptos de dinero. Sin anuncios. Sin rastreo.",
+  "xpLabel": "XP",
+  "comingSoon": "Más funciones pronto."
+}
